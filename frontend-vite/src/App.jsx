@@ -1,5 +1,5 @@
 // import React from "react";
 
 export const App = () => {
-  return <div>Welcome to proShop</div>;
+  return <p>Welcome to proShop</p>;
 };
